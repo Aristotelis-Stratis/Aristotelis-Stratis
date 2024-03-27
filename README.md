@@ -8,7 +8,7 @@
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/aristotelis-stratis-9647002b8/">
-    <img src="https://github.com/Aristotelis-Stratis/Aristotelis-Stratis/assets/118734020/d9304913-3780-40f8-8818-c17c3d23ea9b" width="50" alt="LinkedIn">
+    <img src="https://github.com/Aristotelis-Stratis/Aristotelis-Stratis/assets/118734020/d9304913-3780-40f8-8818-c17c3d23ea9b" width="40" alt="LinkedIn">
 </a>
 
 
