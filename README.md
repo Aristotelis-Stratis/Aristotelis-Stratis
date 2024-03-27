@@ -7,9 +7,9 @@
 #### - 📫 How to reach me: [stratis.dev@outlook.com](mailto:stratis.dev@outlook.com)
 ## Connect with me:
 
-[![LinkedIn](https://github.com/Aristotelis-Stratis/Aristotelis-Stratis/assets/118734020/d9304913-3780-40f8-8818-c17c3d23ea9b)](https://www.linkedin.com/in/aristotelis-stratis-9647002b8/)
-
-
+<a href="https://www.linkedin.com/in/aristotelis-stratis-9647002b8/">
+    <img src="https://github.com/Aristotelis-Stratis/Aristotelis-Stratis/assets/118734020/d9304913-3780-40f8-8818-c17c3d23ea9b" width="100" alt="LinkedIn">
+</a>
 
 
 <!--
