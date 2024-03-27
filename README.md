@@ -4,7 +4,7 @@
 #### - 🔭 I’m currently working on my [JOIN Project](https://github.com/Aristotelis-Stratis/JOIN)
 #### - 🌱 Currently exploring the integration of Google Firebase with Angular
 #### - 💬 Ask me about JavaScript and Angular
-#### - 📫 How to reach me: [contact@aristotelis-stratis.com](mailto:contact@stratis.dev@outlook.com)
+#### - 📫 How to reach me: [stratis.dev@outlook.com](mailto:stratis.dev@outlook.com)
 <!--
 **Aristotelis-Stratis/Aristotelis-Stratis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
