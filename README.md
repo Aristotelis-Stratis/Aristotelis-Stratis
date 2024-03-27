@@ -1,6 +1,7 @@
 # Hello there👋, I'm Aristotelis Stratis.
-## Soon to be Frontend Developer.
-
+### A Frontend Developer student from the Developer Academy.
+##
+### - 📖 My Portfolio
 #### - 🔭 I’m currently working on my [JOIN Project](https://github.com/Aristotelis-Stratis/JOIN)
 #### - 🌱 Currently exploring the integration of Google Firebase with Angular
 #### - 💬 Ask me about JavaScript and Angular
