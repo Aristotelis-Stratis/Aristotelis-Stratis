@@ -5,7 +5,7 @@
 #### • 🔭 I’m currently working on my [JOIN Project](https://github.com/Aristotelis-Stratis/JOIN)
 #### • 🌱 Currently exploring the integration of Google Firebase with Angular
 #### • 💬 Ask me about JavaScript and Angular
-#### • 📫 How to reach me: [stratis.dev@outlook.com](mailto:stratis.dev@outlook.com)
+#### • 📫 How to reach me: [aristratis@protonmail.com](mailto:aristratis@protonmail.com)
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/aristotelis-stratis-9647002b8/">
