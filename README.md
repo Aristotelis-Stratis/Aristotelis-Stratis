@@ -2,7 +2,7 @@
 ### A Frontend Developer student from the Developer Academy.
 ##
 #### • 📖 My Portfolio
-#### • 🔭 I’m currently working on my [JOIN Project](https://github.com/Aristotelis-Stratis/JOIN)
+#### • 🔭 I’m currently working on my Slack-style messenger.
 #### • 🌱 Currently exploring the integration of Google Firebase with Angular
 #### • 💬 Ask me about JavaScript and Angular
 #### • 📫 How to reach me: [aristratis@protonmail.com](mailto:aristratis@protonmail.com)
