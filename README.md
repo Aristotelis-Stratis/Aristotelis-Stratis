@@ -1,5 +1,5 @@
 # Hello there👋, I'm Aristotelis Stratis.
-### A Frontend Developer student from the Developer Academy.
+### A Frontend Developer from Eckernförde, Germany.
 ##
 #### • 📖 My Portfolio
 #### • 🔭 I’m currently working on my Slack-style messenger.
