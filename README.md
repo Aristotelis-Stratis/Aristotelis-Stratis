@@ -2,8 +2,7 @@
 ### A Frontend Developer from Eckernförde, Germany.
 ##
 #### • 📖 My Portfolio
-#### • 🔭 I’m currently working on my Slack-style messenger.
-#### • 🌱 Currently exploring the integration of Google Firebase with Angular
+#### • 🔭 I'm currently looking for a job opportunity as a Frontend Developer in Germany.
 #### • 💬 Ask me about JavaScript and Angular
 #### • 📫 How to reach me: [aristratis@protonmail.com](mailto:aristratis@protonmail.com)
 ## Connect with me:
