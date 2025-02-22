@@ -1,7 +1,7 @@
 # Hello there👋, I'm Aristotelis Stratis.
 ### A Frontend Developer from Eckernförde, Germany.
 ##
-#### • 📖 My Portfolio
+#### • 📖 My [Portfolio](https://aristotelis-stratis.com/)
 #### • 🔭 I'm currently looking for a job opportunity as a Frontend Developer in Germany.
 #### • 💬 Ask me about JavaScript and Angular
 #### • 📫 How to reach me: [aristratis@protonmail.com](mailto:aristratis@protonmail.com)
